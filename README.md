@@ -1,6 +1,5 @@
 # Hi there! I'm Muhammad Talha ✨
 
-![Profile Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 🚀 **Aspiring Software Engineer | Passionate Frontend Developer**  
 🎓 **Student of Software Engineering**  
@@ -8,7 +7,7 @@
 
 ---
 
-### 🔗 Check Out My Repositories
+### 🔗 Check Out My Repositories / Projects
 [![GitHub Repositories](https://img.shields.io/badge/GitHub-View%20Repositories-black?style=flat&logo=github)](https://github.com/iamtalhacui?tab=repositories)
 
 ---
