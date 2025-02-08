@@ -1,10 +1,15 @@
 # Hi there! I'm Muhammad Talha ✨
 
-![Profile Banner](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 🚀 **Aspiring Software Engineer | Passionate Frontend Developer**  
 🎓 **Student of Software Engineering**  
 💻 **Building responsive, dynamic, and modern web applications using React**  
+
+---
+
+### 🔗 Check Out My Repositories
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-View%20Repositories-black?style=flat&logo=github)](https://github.com/iamtalhacui?tab=repositories)
 
 ---
 
@@ -35,16 +40,11 @@
 
 ---
 
-### ✨ Featured Projects
-
-- [**React Weather App**](https://github.com/muhammadtalha/react-weather-app) - A responsive weather dashboard using React and TailwindCSS.
-- [**Portfolio Website**](https://github.com/muhammadtalha/portfolio) - My personal website showcasing my projects and skills.
-
----
-
 ### 🎯 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammadtalha)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/muhammadtalha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-talha-86662733b/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Visit-blue?style=flat&logo=facebook)](https://www.facebook.com/share/19vwKRdykm/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr_talha_here/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:muhammadtalhaa123445@gmail.com)
 
 ---
 
